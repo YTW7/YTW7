@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mohd Yahya</h1>
 
-<h3 align="center">A Software Developer in pursuit of building stuff.</h3>
+<h3 align="center">A Software Developer in pursuit of building great stuff.</h3>
 
 ## 🚀 About Me
 - ✨ Always keen to work with new tech.
