@@ -6,6 +6,8 @@
 - ✨ Always keen to work with new tech.
 - 🔗 Feel free to reach out.
 
+[![@ytw7's Holopin board](https://holopin.me/ytw7)](https://holopin.io/@ytw7)
+
 ## 🛠 I'm familiar with
 **Programming Languages**
 <p>
