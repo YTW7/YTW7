@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Mohd Yahya</h1>
+<h1 align="center">Hi 👋, I'm Yahya</h1>
 
 <h3 align="center">A Software Developer in pursuit of building great stuff.</h3>
 
