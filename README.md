@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Yahya</h1>
+<!-- <h1 align="center">Hi 👋, I'm Yahya</h1> -->
 
 <h3 align="center">A Software Developer in pursuit of building great stuff.</h3>
 
@@ -6,7 +6,7 @@
 - ✨ Always keen to work with new tech.
 - 🔗 Feel free to reach out.
 
-[![@ytw7's Holopin board](https://holopin.me/ytw7)](https://holopin.io/@ytw7)
+<!-- [![@ytw7's Holopin board](https://holopin.me/ytw7)](https://holopin.io/@ytw7) -->
 
 ## 🛠 I'm familiar with
 **Programming Languages**
@@ -28,8 +28,8 @@
   <img alt="Firebase" src="https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=white" />
 </p>
 
-## 🔗 Connect With Me
-[![Linkedin Badge](https://img.shields.io/badge/-Mohd%20Yahya-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mohd-yahya/)](https://www.linkedin.com/in/mohd-yahya/)
+<!-- ## 🔗 Connect With Me
+[![Linkedin Badge](https://img.shields.io/badge/-Mohd%20Yahya-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mohd-yahya/)](https://www.linkedin.com/in/mohd-yahya/) -->
 <!---
 YTW7/YTW7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
