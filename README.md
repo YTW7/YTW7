@@ -19,7 +19,7 @@
 
 **Tools and Frameworks**
 <p>
-  <img alt="angular" src="https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white" />
+  <img alt="React" src="https://img.shields.io/badge/-React-blue?style=flat-square&logo=react&logoColor=white" />
   <img alt="Android Development" src="https://img.shields.io/badge/-Android%20Dev-3DDC84?style=flat-square&logo=android&logoColor=white" />
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
   <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
